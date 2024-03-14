@@ -96,6 +96,9 @@ plt.show()
 # Hasil 
 ![py 1](https://github.com/muhammadzidanfadilah/Pengolahan_citra_pertemuan_2/assets/115553474/0cf9fea0-649a-4f60-a45f-d34d8be0317e)
 
+![coding](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/858cb86f-b077-4ed8-90ad-61f14055cf85)
+
+
 ![py 2](https://github.com/muhammadzidanfadilah/Pengolahan_citra_pertemuan_2/assets/115553474/0bba8013-6a3a-461e-855c-f2598ba39a30)
 
 
