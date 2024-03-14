@@ -98,3 +98,6 @@ plt.show()
 
 ![py 2](https://github.com/muhammadzidanfadilah/Pengolahan_citra_pertemuan_2/assets/115553474/0bba8013-6a3a-461e-855c-f2598ba39a30)
 
+
+
+![hasil 2](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/1ec18a85-504e-4a18-98ae-fd4049265b21)
