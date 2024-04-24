@@ -10,7 +10,6 @@
 
 
 
-
 # Tugas Pada Pertemuan 2
 
 # Link video penjelasan mengenai tugas di bawah ini 
