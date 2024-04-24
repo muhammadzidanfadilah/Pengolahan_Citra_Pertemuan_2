@@ -15,14 +15,12 @@
 
 # Link video penjelasan mengenai tugas di bawah ini 
 
-| Link YouTube: | https://youtu.be/8tS7A8M3h60?si=R3-wDKtkIvx4cWD0  |
+| Link YouTube: | https://youtu.be/QVzNJ2SZ34g  |
 | --- | --- |
 
-| Link Tiktok: |  https://www.tiktok.com/@muhammadzidanfadillah08/video/7345348799881137409  |
+| Link Tiktok: | https://www.tiktok.com/@muhammadzidanfadillah08/video/7361486244234218768?is_from_webapp=1&sender_device=pc&web_id=7345347257934480898 |
 | --- | --- |
 
-| Link Facebook: |  https://www.facebook.com/100059781091688/videos/2592440214266841 |
-| --- | --- |
 
 
 # Tugas 
@@ -82,25 +80,16 @@ dst = cv2.warpPerspective(img, M, (300,300))
 ```
 Gambar hasil (dst) akan menjadi versi gambar yang telah mengalami transformasi perspektif.
 
-Simpan gambar yang telah diubah menggunakan plt.savefig() milik Matplotlib:
 
 Kembali, [:,:,::-1] digunakan untuk mengonversi format BGR menjadi RGB sebelum menyimpan gambar.
 
 ```
 plt.imshow(dst[:,:,::-1])
-plt.savefig("output_image.png")
 plt.show()
 
 ```
 
 # Hasil 
-![py 1](https://github.com/muhammadzidanfadilah/Pengolahan_citra_pertemuan_2/assets/115553474/0cf9fea0-649a-4f60-a45f-d34d8be0317e)
+![LL](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/113500dc-9ebc-4d8f-8105-9d3745924b56)
+![LL1](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/243df02c-583a-4ba9-a4c8-40e1cd206f63)
 
-![coding](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/858cb86f-b077-4ed8-90ad-61f14055cf85)
-
-
-![py 2](https://github.com/muhammadzidanfadilah/Pengolahan_citra_pertemuan_2/assets/115553474/0bba8013-6a3a-461e-855c-f2598ba39a30)
-
-
-
-![hasil 2](https://github.com/muhammadzidanfadilah/Pengolahan_Citra_Pertemuan_2/assets/115553474/1ec18a85-504e-4a18-98ae-fd4049265b21)
