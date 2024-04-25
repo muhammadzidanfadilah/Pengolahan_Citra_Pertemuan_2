@@ -14,10 +14,10 @@
 
 # Link video penjelasan mengenai tugas di bawah ini 
 
-| Link YouTube: | https://youtu.be/QVzNJ2SZ34g  |
+| Link YouTube: | https://youtu.be/v6h5XSPUeuE |
 | --- | --- |
 
-| Link Tiktok: | https://www.tiktok.com/@muhammadzidanfadillah08/video/7361486244234218768?is_from_webapp=1&sender_device=pc&web_id=7345347257934480898 |
+| Link Tiktok: | https://www.tiktok.com/@muhammadzidanfadillah08/video/7361719198701079825?is_from_webapp=1&sender_device=pc&web_id=7345347257934480898 |
 | --- | --- |
 
 
